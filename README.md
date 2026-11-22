@@ -2,6 +2,8 @@
 
 当前版本：**1.0.0**
 
+**下载**：[最新发布](https://github.com/linus441/dsh-web-deploy/releases/latest) → 下载 `dsh-web-deploy.zip`，解压到任意目录后双击 `install.cmd`。也可以直接 `git clone` 本仓库。
+
 ## 这个整合包是干什么的
 
 一句话：**双击一次，在你的 Windows 电脑上装出一个独立的 DeepSeek Harness 网页端，并自动装好 `dsh-purge-plus`（破甲）插件。**
